@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 this is a test file£¬update  for a for b
-=======
-this is a test file£¬update  for a  for a
->>>>>>> Stashed changes
+
